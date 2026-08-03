@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -32,6 +33,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
