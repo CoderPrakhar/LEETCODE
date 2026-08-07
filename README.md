@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
