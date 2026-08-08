@@ -9,12 +9,14 @@ public:
         int count = 0;
 
         while (j < nums.size()) {
+
             if (i == j) {
                 j++;
                 continue;
             }
 
             int diff = nums[j] - nums[i];
+
             if (diff < k) {
                 j++;
             }
@@ -22,19 +24,14 @@ public:
                 i++;
             }
             else {
-                count++;
 
-                //avoid dupicates
-                int left = nums[i];
-                int right = nums[j];
-
-                while (i < nums.size() && nums[i] == left) {
-                    i++;
+                // duplicate i ko skip karo
+                if (i == 0 || nums[i] != nums[i - 1]) {
+                    count++;
                 }
 
-                while (j < nums.size() && nums[j] == right) {
-                    j++;
-                }
+                i++;
+                j++;
             }
         }
 
