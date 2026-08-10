@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
@@ -107,6 +108,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Math
 |  |
@@ -117,6 +119,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
