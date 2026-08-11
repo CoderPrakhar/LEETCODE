@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
