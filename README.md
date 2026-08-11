@@ -13,6 +13,7 @@
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/CoderPrakhar/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/CoderPrakhar/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
