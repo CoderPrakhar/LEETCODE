@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/CoderPrakhar/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/CoderPrakhar/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -64,6 +65,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/CoderPrakhar/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CoderPrakhar/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
