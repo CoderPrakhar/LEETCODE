@@ -35,6 +35,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+| [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+| [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
