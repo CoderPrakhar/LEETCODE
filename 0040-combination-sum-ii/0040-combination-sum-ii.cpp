@@ -3,43 +3,35 @@ public:
 
     void getAllCombinations(vector<int>& arr,
                             int idx,
-                            int tar,
+                            int target,
                             vector<vector<int>>& ans,
-                            vector<int>& combin) {
+                            vector<int>& ds) {
 
-        if (tar == 0) {
-            ans.push_back(combin);
+        if (target == 0) {
+            ans.push_back(ds);
             return;
         }
 
-        if (idx == arr.size() || tar < 0) {
-            return;
+        for(int i=idx; i<arr.size(); i++){
+
+            if(i>idx && arr[i]==arr[i-1]) continue;
+            if(arr[i]>target) break;
+
+            ds.push_back(arr[i]);
+            getAllCombinations(arr, i+1 , target-arr[i], ans, ds);
+            ds.pop_back();
         }
-
-        // Include
-        combin.push_back(arr[idx]);
-        getAllCombinations(arr, idx + 1, tar - arr[idx], ans, combin);
-
-        // Backtrack
-        combin.pop_back();
-
-        // Skip duplicates
-        while (idx + 1 < arr.size() && arr[idx + 1] == arr[idx]) {
-            idx++;
-        }
-
-        // Exclude
-        getAllCombinations(arr, idx + 1, tar, ans, combin);
+       
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
 
-        sort(arr.begin(), arr.end());
+        sort(candidates.begin(), candidates.end());
 
         vector<vector<int>> ans;
-        vector<int> combin;
+        vector<int> ds;
 
-        getAllCombinations(arr, 0, target, ans, combin);
+        getAllCombinations(candidates, 0, target, ans, ds);
 
         return ans;
     }
