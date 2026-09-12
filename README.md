@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/CoderPrakhar/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/CoderPrakhar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0494-target-sum) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0494-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
