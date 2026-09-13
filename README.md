@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
@@ -51,6 +52,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -61,6 +63,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoderPrakhar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderPrakhar/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -213,5 +217,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
