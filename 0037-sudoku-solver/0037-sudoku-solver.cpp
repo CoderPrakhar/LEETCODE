@@ -12,15 +12,14 @@ public:
                         if(isValid(board, i , j , c)){
                             board[i][j]=c;
 
-                            if(solve(board)){
-                            return true;
-                        }
-                        else{
-                            board[i][j]='.';
-                        }
-                        }
+                            if(solve(board) == true){
+                                return true;
+                            }
+                            else{
+                                board[i][j]='.';
+                            }
 
-                        
+                        }
                     }
 
                     return false;
