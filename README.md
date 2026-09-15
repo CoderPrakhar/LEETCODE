@@ -179,6 +179,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderPrakhar/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderPrakhar/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0131-palindrome-partitioning](https://github.com/CoderPrakhar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderPrakhar/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderPrakhar/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CoderPrakhar/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Ternary Search
 |  |
 | ------- |
