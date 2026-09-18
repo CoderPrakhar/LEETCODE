@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/CoderPrakhar/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0494-target-sum) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -82,6 +84,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
