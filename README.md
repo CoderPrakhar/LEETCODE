@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/CoderPrakhar/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0410-split-array-largest-sum) |
