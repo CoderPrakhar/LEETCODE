@@ -41,6 +41,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderPrakhar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1901-find-a-peak-element-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -104,6 +106,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderPrakhar/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderPrakhar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
