@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderPrakhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
