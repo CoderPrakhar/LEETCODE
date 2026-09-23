@@ -1,38 +1,38 @@
 class Solution {
 public:
 
-    void getAllCombinations(vector<int>& arr,
-                            int idx,
-                            int target,
-                            vector<vector<int>>& ans,
-                            vector<int>& ds) {
-
-        if (target == 0) {
-            ans.push_back(ds);
+    void solve( vector<int>&candidates, vector<int>&temp, int i, int target,vector<vector<int>>&answer){
+        
+        // base case
+        if (target==0){
+            answer.push_back(temp);
+            return;
+        }
+        //base case2
+        if (i==candidates.size()){
             return;
         }
 
-        for(int i=idx; i<arr.size(); i++){
+        if (candidates[i] <= target){
+            temp.push_back(candidates[i]);
+            solve(candidates,temp,i+1,target-candidates[i],answer);
+            temp.pop_back();
 
-            if(i>idx && arr[i]==arr[i-1]) continue;
-            if(arr[i]>target) break;
-
-            ds.push_back(arr[i]);
-            getAllCombinations(arr, i+1 , target-arr[i], ans, ds);
-            ds.pop_back();
+            while (i+1<candidates.size() && candidates[i]==candidates[i+1]){
+                i++; // skip duplicates
+            }
         }
-       
+
+        solve(candidates,temp,i+1,target,answer);
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
 
-        sort(candidates.begin(), candidates.end());
+        sort(candidates.begin(),candidates.end());
+        vector<int>temp;
+        vector<vector<int>>answer;
 
-        vector<vector<int>> ans;
-        vector<int> ds;
-
-        getAllCombinations(candidates, 0, target, ans, ds);
-
-        return ans;
+        solve(candidates,temp,0,target,answer);
+        return answer;
     }
 };
