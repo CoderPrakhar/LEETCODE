@@ -136,6 +136,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CoderPrakhar/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderPrakhar/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -146,6 +147,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CoderPrakhar/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderPrakhar/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/CoderPrakhar/LEETCODE/tree/master/0060-permutation-sequence) |
 ## Two Pointers
@@ -185,6 +187,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CoderPrakhar/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/CoderPrakhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
