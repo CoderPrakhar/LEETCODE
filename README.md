@@ -138,6 +138,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/CoderPrakhar/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderPrakhar/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/CoderPrakhar/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
