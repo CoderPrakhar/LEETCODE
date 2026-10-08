@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -128,6 +129,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -141,6 +143,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderPrakhar/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -164,6 +167,7 @@
 | [0061-rotate-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/CoderPrakhar/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -225,6 +229,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
