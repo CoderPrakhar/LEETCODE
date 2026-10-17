@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoderPrakhar/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/CoderPrakhar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/CoderPrakhar/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/CoderPrakhar/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderPrakhar/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -272,4 +273,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CoderPrakhar/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CoderPrakhar/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
