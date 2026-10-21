@@ -47,6 +47,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderPrakhar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [2643-row-with-maximum-ones](https://github.com/CoderPrakhar/LEETCODE/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
@@ -281,6 +282,7 @@
 | [0020-valid-parentheses](https://github.com/CoderPrakhar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/CoderPrakhar/LEETCODE/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/CoderPrakhar/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderPrakhar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CoderPrakhar/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/CoderPrakhar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
