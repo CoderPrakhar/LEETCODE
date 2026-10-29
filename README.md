@@ -148,12 +148,14 @@
 | [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/CoderPrakhar/LEETCODE/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/CoderPrakhar/LEETCODE/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0037-sudoku-solver](https://github.com/CoderPrakhar/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderPrakhar/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/CoderPrakhar/LEETCODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/CoderPrakhar/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderPrakhar/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -296,4 +299,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CoderPrakhar/LEETCODE/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/CoderPrakhar/LEETCODE/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
