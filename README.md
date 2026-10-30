@@ -40,6 +40,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CoderPrakhar/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderPrakhar/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/CoderPrakhar/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderPrakhar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -211,6 +212,7 @@
 | [0002-add-two-numbers](https://github.com/CoderPrakhar/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/CoderPrakhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/CoderPrakhar/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Sliding Window
 |  |
