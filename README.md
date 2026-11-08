@@ -54,11 +54,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -302,4 +304,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/CoderPrakhar/LEETCODE/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/CoderPrakhar/LEETCODE/tree/master/0460-lfu-cache) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
