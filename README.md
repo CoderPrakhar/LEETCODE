@@ -44,6 +44,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderPrakhar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
@@ -194,6 +195,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CoderPrakhar/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0060-permutation-sequence](https://github.com/CoderPrakhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CoderPrakhar/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Sliding Window
 |  |
@@ -312,4 +315,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
