@@ -57,11 +57,13 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/CoderPrakhar/LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -311,10 +313,12 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 ## Counting
 |  |
 | ------- |
