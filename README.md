@@ -42,6 +42,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderPrakhar/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CoderPrakhar/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderPrakhar/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderPrakhar/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -328,4 +330,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
