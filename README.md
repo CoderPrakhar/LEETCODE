@@ -38,6 +38,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderPrakhar/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CoderPrakhar/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderPrakhar/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderPrakhar/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CoderPrakhar/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/CoderPrakhar/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
@@ -334,4 +336,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
