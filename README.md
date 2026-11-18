@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/CoderPrakhar/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CoderPrakhar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/CoderPrakhar/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/CoderPrakhar/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/CoderPrakhar/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/CoderPrakhar/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CoderPrakhar/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/CoderPrakhar/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CoderPrakhar/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/CoderPrakhar/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
