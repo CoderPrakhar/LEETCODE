@@ -14,6 +14,7 @@
 | [0040-combination-sum-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/CoderPrakhar/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CoderPrakhar/LEETCODE/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/CoderPrakhar/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CoderPrakhar/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -185,6 +186,7 @@
 | [0011-container-with-most-water](https://github.com/CoderPrakhar/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/CoderPrakhar/LEETCODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/CoderPrakhar/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/CoderPrakhar/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
@@ -257,6 +259,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CoderPrakhar/LEETCODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/CoderPrakhar/LEETCODE/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderPrakhar/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
@@ -359,5 +362,10 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CoderPrakhar/LEETCODE/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/CoderPrakhar/LEETCODE/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CoderPrakhar/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
